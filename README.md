@@ -66,4 +66,4 @@ kubectl get pod -A
 
 ### Destory virtual machine and remove config files
 
-- `vagrant destory -f && rm -rf .vagrant share`
+- `vagrant destroy -f && rm -rf .vagrant share`
